@@ -1,0 +1,61 @@
+﻿@model PracticaSupervisada.Models.OrdenesServicio
+
+@{
+    ViewData["Title"] = "Eliminar";
+}
+<div class="container">
+    <h1>Eliminar Servicio</h1>
+
+    <h3>Esta seguro de eliminar este servicio</h3>
+    <div>
+        <h4>OrdenesServicio</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Inicio)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Inicio)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Entrega)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Entrega)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Total)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Total)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.cliente)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.cliente.Nombre)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.vehiculo)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.vehiculo.Marca)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.servicio)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.servicio.Servicios)
+            </dd>
+        </dl>
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="OrdenId" />
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            <a asp-action="Index">Volver a la lista</a>
+        </form>
+    </div>
+</div>
+
+
+

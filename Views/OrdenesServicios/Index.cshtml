@@ -1,0 +1,66 @@
+﻿@model IEnumerable<PracticaSupervisada.Models.OrdenesServicio>
+
+@{
+    ViewData["Title"] = "Ordenes-Servicios";
+}
+<div class="container">
+    <h1>Ordenes</h1>
+
+<p>
+    <a class="text-decoration-none" asp-action="Create">Crear una nueva orden </a>
+</p>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Inicio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Entrega)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Total)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.vehiculo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.servicio)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Inicio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Entrega)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Total)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cliente.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.vehiculo.Marca)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.servicio.Servicios)
+                </td>
+            <td>
+               <a asp-action="Edit" asp-route-id="@item.OrdenId"><i class="bi bi-pencil-square"></i></a> |
+               <a asp-action="Delete" asp-route-id="@item.OrdenId"><i class="bi bi-trash"></i></a>
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>

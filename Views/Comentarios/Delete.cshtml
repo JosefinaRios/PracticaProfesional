@@ -1,0 +1,39 @@
+﻿@model PracticaSupervisada.Models.Comentario
+
+@{
+    ViewData["Title"] = "Eliminar";
+}
+
+<div class="container">
+    <h1>Eliminar</h1>
+
+    <h3>Estas seguro de eliminar este comentario?</h3>
+    <div>
+        
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Fecha)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Fecha)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Mensaje)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Mensaje)
+            </dd>
+          
+        </dl>
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="ComentarioId" />
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            <a asp-controller="Home" asp-action="Index" >Volver</a>
+
+        </form>
+    </div>
+
+</div>
+

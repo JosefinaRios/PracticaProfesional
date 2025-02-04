@@ -1,0 +1,269 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+@model List<PracticaSupervisada.Models.Comentario>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active d-item">
+            <img src="~/fotos/male-painter-overalls-doing-his-work-car-shop.jpg" class="d-block w-100 d-img" alt="...">
+            <div class="carousel-caption  text-center  ">
+                <h2 class="texto-carrusel fw-light fs-3 poppins-regular">
+                    Renueva tu vehículo con la calidad y precisión que se merece.<br /> 
+                    ¡Tu auto como nuevo, siempre!</h2>
+            </div>
+        </div>
+        <div class="carousel-item d-item">
+            <img src="~/fotos/auto-service-salon-doign-car-wrapping.jpg" class="d-block w-100 d-img" alt="...">
+            <div class="carousel-caption text-center ">
+                <h2 class="texto-carrusel fw-light fs-3 poppins-regular">
+                    Renueva tu vehículo con la calidad y precisión que se merece. <br />
+                    ¡Tu auto como nuevo, siempre!</h2>
+
+            </div>
+        </div>
+        <div class="carousel-item d-item">
+            <img src="~/fotos/front-view-fancy-car-available-selling.jpg" class="d-block w-100 d-img" alt="...">
+            <div class=" carousel-caption text-center  ">
+                <h2 class=" texto-carrusel fw-light fs-3 poppins-regular">
+                    Renueva tu vehículo con la calidad y precisión que se merece.<br />
+                    ¡Tu auto como nuevo, siempre!</h2>
+
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+<section>
+    <div class="mt-5 align-items-center justify-content-center">
+        <div class="   text-center ">
+            <h1 class=" fs-4 lh-base color-textos poppins-regular">NOSOTROS</h1>
+            <div class="linea-debajo mx-auto mt-2"></div>
+        </div>
+    </div>
+    <div class="container d-flex justify-content-center align-items-center py-5">
+        <div class="row w-100" style="max-width: 1000px;">
+            <!-- Columna del texto -->
+            <div class="col-md-8 px-4">
+                <p class="fs-5 text-start fw-light poppins-regular lh-base color-textos">
+                    En Taller Gudiño's, somos un taller familiar con más de 40 años de experiencia en trabajos de chapa del automotor.
+                    Nos especializamos en la reparación de microbollos sin dañar la pintura, garantizando resultados impecables.
+                    Nuestro compromiso es ofrecer soluciones de alta calidad con rapidez y precisión.
+                </p>
+            </div>
+
+            <!-- Columna de la imagen -->
+            <div class="col-md-4 px-4 text-center">
+                <img class="img-fluid imgen-taller" src="~/fotos/Captura de pantalla 2025-01-08 120431.png" alt="Imagen del taller">
+            </div>
+        </div>
+    </div>
+
+
+</section>
+<section>
+    <div class="pt-5 align-items-center justify-content-center ">
+        <div class="  text-center ">
+            <h1 class=" fs-4 lh-base color-textos poppins-regular ">SERVICIOS</h1>
+            <div class="linea-debajo mx-auto mt-2"></div>
+        </div>
+    </div>
+    <div class="container px-3 pt-3 d-flex justify-content-center align-items-center">
+    <div class="row  g-5 ">
+        <div class="col">
+            <div class="card bg-transparent ">
+                <img src="~/fotos/spray-gun-removebg-preview.png" class="card-img-top mx-auto icon-card w-100" alt="...">
+                <div class="card-body">
+                    <h5 class=" card-title">Pintura Automotriz</h5>
+                   
+                    </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card bg-transparent">
+                    <img src="~/fotos/car-repair_2137947.png" class="card-img-top w-100" alt="...">
+                    <div class="card-body text-center">
+                        <h5 class=" card-title"> Reparación de Microbollos</h5>
+                    </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card bg-transparent">
+                    <img src="~/fotos/car-door_5847896.png" class="card-img-top w-100" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Reparacion de Chapa</h5>
+                       
+
+                    </div>
+            </div>
+        </div>
+       
+    </div>
+    </div>
+</section>
+
+
+<div class="container mt-5 text-center">
+    <h2 class="fs-4">Reseñas de nuestros clientes</h2>
+    <button class="boton mt-3" data-bs-toggle="modal" data-bs-target="#comentarioModal">
+        Escribir una reseña
+    </button>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="comentarioModal" tabindex="-1" aria-labelledby="comentarioModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="comentarioModalLabel">Escribir una reseña</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form asp-action="Create" asp-controller="Comentarios" method="post">
+                    <div class="mb-3">
+                        <label for="NombreCliente" class="form-label">Cliente</label>
+                        <input type="text" class="form-control" id="NombreCliente" name="NombreCliente" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="Mensaje" class="form-label">Mensaje</label>
+                        <textarea class="form-control" id="Mensaje" name="Mensaje" rows="3" required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Enviar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container mt-5">
+    <h3>Comentarios recientes</h3>
+    <div class="row">
+        @if (Model == null || !Model.Any())
+        {
+            <p>No hay comentarios disponibles.</p>
+        }
+        else{
+
+
+            <div id="carouselComentarios" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    @for (int i = 0; i < Model.Count; i += 4)  // 4 comentarios por slide
+                    {
+                        <div class="carousel-item @(i == 0 ? "active" : "")">
+                            <div class="d-flex justify-content-center gap-3">
+                                @foreach (var comentario in Model.Skip(i).Take(4)) // Toma de 4 en 4
+                                {
+
+                                    <div class="card mx-2" style="width: 18rem;">
+                                            <div class="card-body">
+                                                <h5 class="card-title">@comentario.NombreCliente</h5>
+                                                <p class="card-text">@comentario.Mensaje</p>
+                                                <p class="text-muted">@comentario.Fecha.ToString("dd/MM/yyyy")</p>
+                                                <a asp-controller="Comentarios" asp-action="Edit" asp-route-id="@comentario.ComentarioId">Editar</a>
+                                                <a asp-controller="Comentarios" asp-action="Delete" asp-route-id="@comentario.ComentarioId">Eliminar</a>
+                                            </div>
+                                        </div>
+                                    
+                                }
+                            </div>
+                        </div>
+                    }
+                </div>
+
+                <button class="carousel-control-prev custom-carousel-control carousel-dark" type="button" data-bs-target="#carouselComentarios" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                </button>
+                <button class="carousel-control-next custom-carousel-control carousel-dark" type="button" data-bs-target="#carouselComentarios" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                </button>
+            </div>
+        }
+    </div>
+</div>
+
+
+
+
+
+
+
+    <style>
+      .carousel-caption{
+          position:absolute;
+          top:40%;
+      }
+      .texto-nosotros{
+          float:left;
+       
+      }
+
+    .custom-carousel-control {
+        width: 1%; /* Más al borde */
+    }
+
+    .icon-card {
+        width: 80px; /* Ajusta según el tamaño deseado */
+        height: auto; /* Mantiene la proporción */
+        margin-bottom: 10px; /* Espacio entre el icono y el texto */
+        
+    }
+
+    .card {
+        width: 18rem; /* Ajusta el ancho total de las cards */
+        height: auto; /* Mantén la altura automática para adaptarla al contenido */
+        margin: 10px; /* Espaciado entre las cards */
+        border: none !important; /* Asegúrate de eliminar los bordes */
+        box-shadow: none; /* También elimina cualquier sombra */
+    }
+
+        .card img {
+            max-height: 150px; /* Limita la altura de las imágenes */
+            object-fit: contain; /* Ajusta la imagen dentro del contenedor sin recortarla */
+        }
+    .imgen-taller{
+        width:300px;
+    }
+    .poppins-regular {
+        font-family: "Poppins", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+       .linea-debajo{
+           width:90px;
+           height:2px;
+        background-color: #ff0000;
+         
+       }
+
+    .color-textos{
+        color:#333;
+    }
+
+       .d-item {
+        height: 360px;
+        width: 100%;
+        position: relative; /* Necesario para que las imágenes se posicionen bien */
+        overflow: hidden; /* Para evitar cualquier desbordamiento */
+    }
+
+    .d-img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover; /* Esto asegura que la imagen rellene el contenedor */
+        filter: brightness(0.4);
+    }
+    </style>
+
+
+
+

@@ -1,0 +1,47 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<ul class="navbar-nav">
+@if (SignInManager.IsSignedIn(User))
+{
+        <li class="col-md-3.5 text-end">
+            <a id="manage" class="text-dark btn btn-outline-primary button me-2" @* asp-area="Identity"  asp-page="/Account/Manage/Index" title="Manage" *@>Hola @UserManager.GetUserName(User)!</a>
+    </li>
+    <li class="nav-item">
+        <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                <button id="logout" type="submit" class=" text-light btn btn-primary button">Cerrar Sesión</button>
+        </form>
+    </li>
+}
+else
+{
+
+        <li class="col-md-3.5 py-2">
+            <a class="text-dark btn btn-outline-primary button me-2" id="register" asp-area="Identity" asp-page="/Account/Register">Registrarse</a>
+    </li>
+    <li class="nav-item py-2">
+            <a class="text-light btn btn-primary button" id="login" asp-area="Identity" asp-page="/Account/Login">Iniciar Sesión</a>
+    </li> 
+       
+}
+</ul>
+
+<style>
+
+
+    .button {
+        
+        padding: 5px 10px;
+        border-radius:14px;
+        transition: .5s;
+        font-weight: 2  00;
+        font-size: 15px;
+        font-family: "Poppins", serif;
+
+    }
+
+
+
+</style>

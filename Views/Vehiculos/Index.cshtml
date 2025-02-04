@@ -1,0 +1,58 @@
+﻿@model IEnumerable<PracticaSupervisada.Models.Vehiculo>
+
+@{
+    ViewData["Title"] = "Vehiculos";
+}
+<div class="container">
+    <h1>Vehiculos</h1>
+
+    <p>
+        <a class="text-decoration-none"  asp-action="Create">Crear Nuevo Vehiculo</a>
+    </p>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Marca)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Modelo)
+                </th>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.Color)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.cliente)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Marca)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Modelo)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Color)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.cliente.Nombre)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.VehiculoId"><i class="bi bi-pencil-square"></i></a> |
+                        <a asp-action="Delete" asp-route-id="@item.VehiculoId"><i class="bi bi-trash"></i></a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

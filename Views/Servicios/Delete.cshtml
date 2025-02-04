@@ -1,0 +1,38 @@
+﻿@model PracticaSupervisada.Models.Servicio
+
+@{
+    ViewData["Title"] = "Eliminar Servicio";
+}
+<div class="container">
+    <h1>Eliminar Servicio</h1>
+
+    <h3>Esta seguro de eliminar esto?</h3>
+    <div>
+        <h4>Servicio</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Servicios)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Servicios)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Descripcion)
+            </dd>
+         
+        </dl>
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="ServicioId" />
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            <a asp-action="Index">Volver a la lista</a>
+        </form>
+    </div>
+</div>
+
+
+

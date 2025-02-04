@@ -1,0 +1,56 @@
+﻿@model IEnumerable<PracticaSupervisada.Models.Comentario>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@* <div class="container">
+    <form asp-action="PostComentario" method="post">
+        <input type="text" name="nombre" placeholder="Tu nombre" required />
+        <textarea name="mensaje" placeholder="Escribe tu comentario" required></textarea>
+        <button type="submit">Enviar</button>
+    </form> *@
+
+   @*  <h1>Index</h1>
+
+    <p>
+        <a class="text-decoration-none" asp-action="Create">Create New</a>
+    </p>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Fecha)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Mensaje)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Cliente)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Fecha)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Mensaje)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Cliente.Nombre)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.ComentarioId"><i class="bi bi-pencil-square"></i></a> |
+                        <a asp-action="Delete" asp-route-id="@item.ComentarioId"><i class="bi bi-trash"></i></a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table> *@
+
+</div>

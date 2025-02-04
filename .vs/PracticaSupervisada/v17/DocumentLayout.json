@@ -1,0 +1,858 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\vehiculos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\vehiculos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\servicios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\servicios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\ordenesservicios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\ordenesservicios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\comentarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\comentarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\vehiculos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\vehiculos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\servicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\servicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\ordenesservicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\ordenesservicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\comentarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\comentarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\models\\practicaptallercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:models\\practicaptallercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\comentarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\comentarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\comentarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\comentarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\controllers\\comentarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:controllers\\comentarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\migrations\\20250127201935_rese\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:migrations\\20250127201935_rese\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\servicios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\servicios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\vehiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\vehiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\ordenesservicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\ordenesservicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\vehiculos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\vehiculos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\ordenesservicios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\ordenesservicios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|c:\\users\\lenovo\\source\\repos\\practicasupervisada\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9CB7756-AB04-46BE-8297-C06DFB4C8B9B}|PracticaSupervisada.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-04T22:42:41.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwFAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:05:11.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T20:30:51.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T20:24:58.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T00:26:10.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T22:37:19.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAuwNEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T13:33:49.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T22:37:08.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Servicios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Servicios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Servicios\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Servicios\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T00:22:03.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:38:32.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:38:36.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Comentarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comentarios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Comentarios\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Comentarios\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:32:22.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\OrdenesServicios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrdenesServicios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\OrdenesServicios\\Edit.cshtml",
+              "RelativeToolTip": "Views\\OrdenesServicios\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T20:26:31.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Vehiculos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehiculos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Vehiculos\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Vehiculos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwC0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:40:35.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:55:44.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:31:04.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Vehiculos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehiculos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Vehiculos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Vehiculos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:41:05.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Servicios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Servicios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Servicios\\Create.cshtml",
+              "RelativeToolTip": "Views\\Servicios\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:39:37.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\OrdenesServicios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrdenesServicios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\OrdenesServicios\\Create.cshtml",
+              "RelativeToolTip": "Views\\OrdenesServicios\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwDEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:37:42.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Comentarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comentarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Comentarios\\Create.cshtml",
+              "RelativeToolTip": "Views\\Comentarios\\Create.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:33:27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:30:43.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T20:25:46.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:29:48.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:29:16.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-11T22:14:18.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PracticaPtallerContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Models\\PracticaPtallerContext.cs",
+              "RelativeDocumentMoniker": "Models\\PracticaPtallerContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Models\\PracticaPtallerContext.cs",
+              "RelativeToolTip": "Models\\PracticaPtallerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:47:06.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T19:10:48.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T13:01:37.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Comentarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comentarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Comentarios\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Comentarios\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:33:10.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ResendEmailConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T23:56:42.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Comentarios\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comentarios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Comentarios\\Details.cshtml",
+              "RelativeToolTip": "Views\\Comentarios\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:32:43.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T23:50:42.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T14:36:58.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ComentariosController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Controllers\\ComentariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ComentariosController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Controllers\\ComentariosController.cs",
+              "RelativeToolTip": "Controllers\\ComentariosController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAWwKwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:55:13.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Models\\Comentario.cs",
+              "RelativeDocumentMoniker": "Models\\Comentario.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Models\\Comentario.cs",
+              "RelativeToolTip": "Models\\Comentario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:54:36.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:43:47.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250127201935_Rese\u00F1as.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Migrations\\20250127201935_Rese\u00F1as.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250127201935_Rese\u00F1as.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Migrations\\20250127201935_Rese\u00F1as.cs",
+              "RelativeToolTip": "Migrations\\20250127201935_Rese\u00F1as.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:19:37.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwD4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:33:23.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:55:12.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Models\\Servicio.cs",
+              "RelativeDocumentMoniker": "Models\\Servicio.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Models\\Servicio.cs",
+              "RelativeToolTip": "Models\\Servicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:33:13.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Servicios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Servicios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Servicios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Servicios\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T19:16:38.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T13:10:50.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Servicios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Servicios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Servicios\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Servicios\\Delete.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:39:21.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T13:00:40.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:55:42.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T13:10:52.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T13:10:49.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\OrdenesServicios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrdenesServicios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\OrdenesServicios\\Index.cshtml",
+              "RelativeToolTip": "Views\\OrdenesServicios\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:34:29.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Vehiculos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehiculos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Vehiculos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Vehiculos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:39:57.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Vehiculos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehiculos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Vehiculos\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Vehiculos\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:40:51.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\OrdenesServicios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrdenesServicios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\OrdenesServicios\\Delete.cshtml",
+              "RelativeToolTip": "Views\\OrdenesServicios\\Delete.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:37:09.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:34:04.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
