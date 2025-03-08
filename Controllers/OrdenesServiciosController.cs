@@ -53,7 +53,7 @@ namespace PracticaSupervisada.Controllers
         {
             ViewData["ClienteId"] = new SelectList(_context.Clientes, "ClienteId", "Nombre");
             ViewData["VehiculoId"] = new SelectList(_context.Vehiculos, "VehiculoId", "Marca");
-            ViewData["ServicioId"] = new SelectList(_context.Servicios, "ServicioId", "Servicios"); 
+            ViewData["ServicioId"] = new SelectList(_context.Servicios, "ServicioId", "Nombre"); 
 
             return View();
         }
@@ -73,7 +73,7 @@ namespace PracticaSupervisada.Controllers
             }
             ViewData["ClienteId"] = new SelectList(_context.Clientes, "ClienteId", "Nombre", ordenesServicio.ClienteId);
             ViewData["VehiculoId"] = new SelectList(_context.Vehiculos, "VehiculoId", "Marca", ordenesServicio.VehiculoId);
-            ViewData["ServicioId"] = new SelectList(_context.Servicios, "ServicioId", "Servicios", ordenesServicio.ServicioId);
+            ViewData["ServicioId"] = new SelectList(_context.Servicios, "ServicioId", "Nombre", ordenesServicio.ServicioId);
             return View(ordenesServicio);
         }
 
@@ -92,7 +92,7 @@ namespace PracticaSupervisada.Controllers
             }
             ViewData["ClienteId"] = new SelectList(_context.Clientes, "ClienteId", "Nombre", ordenesServicio.ClienteId);
             ViewData["VehiculoId"] = new SelectList(_context.Vehiculos, "VehiculoId", "Marca", ordenesServicio.VehiculoId);
-            ViewData["ServicioId"] = new SelectList(_context.Servicios, "ServicioId", "Servicios", ordenesServicio.ServicioId);
+            ViewData["ServicioId"] = new SelectList(_context.Servicios, "ServicioId", "Nombre", ordenesServicio.ServicioId);
 
             return View(ordenesServicio);
         }
@@ -131,7 +131,7 @@ namespace PracticaSupervisada.Controllers
             }
             ViewData["ClienteId"] = new SelectList(_context.Clientes, "ClienteId", "Nombre", ordenesServicio.ClienteId);
             ViewData["VehiculoId"] = new SelectList(_context.Vehiculos, "VehiculoId", "Marca", ordenesServicio.VehiculoId);
-            ViewData["ServicioId"] = new SelectList(_context.Servicios, "ServicioId", "Servicios", ordenesServicio.ServicioId);
+            ViewData["ServicioId"] = new SelectList(_context.Servicios, "ServicioId", "Nombre", ordenesServicio.ServicioId);
 
             return View(ordenesServicio);
         }

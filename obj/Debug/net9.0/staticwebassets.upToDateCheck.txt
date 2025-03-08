@@ -73,6 +73,7 @@ wwwroot\fotos\male-painter-overalls-doing-his-work-car-shop.jpg
 wwwroot\fotos\reparacionchapajpg.jpg
 wwwroot\fotos\service-worker-painting-car-auto-service.jpg
 wwwroot\fotos\spray-gun-removebg-preview.png
+wwwroot\fotos\Taller Gudiño’s.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

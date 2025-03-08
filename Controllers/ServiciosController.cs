@@ -56,7 +56,7 @@ namespace PracticaSupervisada.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ServicioId,Servicios,Descripcion")] Servicio servicio)
+        public async Task<IActionResult> Create([Bind("ServicioId,Nombre,Descripcion")] Servicio servicio)
         {
             if (ModelState.IsValid)
             {
@@ -88,7 +88,7 @@ namespace PracticaSupervisada.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ServicioId,Servicios,Descripcion")] Servicio servicio)
+        public async Task<IActionResult> Edit(int id, [Bind("ServicioId,Nombre,Descripcion")] Servicio servicio)
         {
             if (id != servicio.ServicioId)
             {

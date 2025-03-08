@@ -17,7 +17,7 @@ public partial class OrdenesServicio
 
     public int VehiculoId { get; set; }
 
-    public int? ServicioId { get; set; }
+    public int ServicioId { get; set; }
 
     public  Cliente? cliente { get; set; }
 

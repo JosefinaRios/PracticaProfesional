@@ -88,7 +88,7 @@ public partial class PracticaPtallerContext : IdentityDbContext
         modelBuilder.Entity<Servicio>(entity =>
         {
           
-            entity.Property(e => e.Servicios)
+            entity.Property(e => e.Nombre)
                 .HasMaxLength(100)
                 .IsUnicode(false)
                 .HasColumnName("Servicio");

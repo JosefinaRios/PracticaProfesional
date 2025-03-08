@@ -146,6 +146,8 @@ namespace PracticaSupervisada.Controllers
             {
                 _context.Clientes.Remove(cliente);
             }
+           
+
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));

@@ -156,6 +156,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HC5BNQqWTAQruHwOcarX0btCUjGFbganwWYTBxeYJf0="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"60635"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HC5BNQqWTAQruHwOcarX0btCUjGFbganwWYTBxeYJf0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 08 Jan 2025 20:41:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PracticaSupervisada/fotos/Taller Gudiño’s.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fotos\Taller Gudiño’s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-h1Sl0aYh4ArrHstbuqCc8zCPPGBUMf5Xrs/s9Tcr8AM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"49637"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022h1Sl0aYh4ArrHstbuqCc8zCPPGBUMf5Xrs/s9Tcr8AM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Feb 2025 13:00:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PracticaSupervisada/fotos/Taller Gudiño’s.x2txa8f5cu.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fotos\Taller Gudiño’s.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x2txa8f5cu"},{"Name":"integrity","Value":"sha256-h1Sl0aYh4ArrHstbuqCc8zCPPGBUMf5Xrs/s9Tcr8AM="},{"Name":"label","Value":"_content/PracticaSupervisada/fotos/Taller Gudi\u00F1o\u2019s.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"49637"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022h1Sl0aYh4ArrHstbuqCc8zCPPGBUMf5Xrs/s9Tcr8AM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Feb 2025 13:00:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PracticaSupervisada/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

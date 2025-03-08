@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M6n0H7ozBzU03LzxuoogYNyfrycra9y/CA0kKNKBCBE=",
+  "Hash": "xqJWv+spUa5YJmVibJzm35/o636OLwMilF8a7gJEI1w=",
   "Source": "PracticaSupervisada",
   "BasePath": "_content/PracticaSupervisada",
   "Mode": "Default",
@@ -4301,6 +4301,27 @@
       "OriginalItemSpec": "wwwroot\\fotos\\spray-gun-removebg-preview.png"
     },
     {
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\wwwroot\\fotos\\Taller Gudiño’s.png",
+      "SourceId": "PracticaSupervisada",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\wwwroot\\",
+      "BasePath": "_content/PracticaSupervisada",
+      "RelativePath": "fotos/Taller Gudiño’s#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x2txa8f5cu",
+      "Integrity": "h1Sl0aYh4ArrHstbuqCc8zCPPGBUMf5Xrs/s9Tcr8AM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fotos\\Taller Gudiño’s.png"
+    },
+    {
       "Identity": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\wwwroot\\js\\site.js",
       "SourceId": "PracticaSupervisada",
       "SourceType": "Discovered",
@@ -7152,6 +7173,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-HC5BNQqWTAQruHwOcarX0btCUjGFbganwWYTBxeYJf0="
+        }
+      ]
+    },
+    {
+      "Route": "fotos/Taller Gudiño’s.png",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\wwwroot\\fotos\\Taller Gudiño’s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h1Sl0aYh4ArrHstbuqCc8zCPPGBUMf5Xrs/s9Tcr8AM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 13:00:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h1Sl0aYh4ArrHstbuqCc8zCPPGBUMf5Xrs/s9Tcr8AM="
+        }
+      ]
+    },
+    {
+      "Route": "fotos/Taller Gudiño’s.x2txa8f5cu.png",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\PracticaSupervisada\\wwwroot\\fotos\\Taller Gudiño’s.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h1Sl0aYh4ArrHstbuqCc8zCPPGBUMf5Xrs/s9Tcr8AM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 13:00:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x2txa8f5cu"
+        },
+        {
+          "Name": "label",
+          "Value": "fotos/Taller Gudiño’s.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h1Sl0aYh4ArrHstbuqCc8zCPPGBUMf5Xrs/s9Tcr8AM="
         }
       ]
     },
